@@ -1,4 +1,4 @@
-const { toUpperCase, toLowerCase } = require("./stringUtils.js");
+const { toUpperCase, toLowerCase } = require("./stringUtils.cjs");
 
 const upper = toUpperCase("hello");
 const lower = toLowerCase("WORLD");
