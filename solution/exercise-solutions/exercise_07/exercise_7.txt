@@ -1,4 +1,5 @@
-Exercise 8: Managing Package Versions
+
+Exercise 7: Managing Package Versions
 
 Description: 
 
