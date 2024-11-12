@@ -1,3 +1,34 @@
+
+# flexpath-modules-code-formatting-intro-to-unit-testing-exercises
+
+## Exercise overview
+
+The intention of this exercise is to give you more experience working with
+collections and loops in JavaScript.
+
+
+## Getting Started
+
+
+1. Using Visual Studio Code, open the folder `flexpath-modules-code-formatting-intro-to-unit-testing-exercises` 
+   wherever you saved it on your device. 
+2. Then open the `flexpath-modules-code-formatting-intro-to-unit-testing-exercises/exercises` folder. 
+   Inside are a collection of folders for each exercise. Exercise instructions are 
+   provided to you in .txt files in these folders.
+3. To test your code, you will open up your terminal, and navigate to the specific `exercise_[number]`
+   folder inside of the larger `exercises/` folder where you are working in, using the
+   change directory command `cd`.
+4. You will then run the command `node [filename].js` to run whichever file
+   in the folder you are working with, replacing `[filename]` in the command
+   with the file's actual name.
+
+
+Exercise solutions are in the `/solution` folder
+
+&nbsp;
+---
+
+
 ### Summary of JavaScript Concepts Covered in These Exercises
 
 1. **Modules**:
